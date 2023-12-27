@@ -1,6 +1,4 @@
-let a=2000;
-let b= 100;
-let divide=()=> a/b; 
-let square=(x)=>x*x;
+let divide=()=> 2000/100; 
+let square=x=>x**2;
 let add=(num1, num2)=>num1+num2;
     
