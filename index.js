@@ -1,16 +1,6 @@
-// divide 
-let divide = () => {
-    return 2000 / 100;
-}
-
-
-// square 
-let square = (x) => {
-    return x * x;
-}
-
-
-// add
-let add = (a, b) => {
-    return a + b
-}
+let a=2000;
+let b= 100;
+let divide=()=> a/b; 
+let square=(x)=>x*x;
+let add=(num1, num2)=>num1+num2;
+    
